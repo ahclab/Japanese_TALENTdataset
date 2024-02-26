@@ -6,12 +6,14 @@ This dataset contains recordings of eye movements and facial expressions while t
 Note: The use of the dataset is only permitted for research purposes.
 
 ## Data Details:
+The pairs with the same number after A or B are those in which the collaborative problem-solving task was carried out. For example, pair 1 includes A01 and B01.
+
 | Name     | Format     | Contents     |
 |-----------|-----------|-----------|
 | data/eye_movements | xlsx | Raw Tobii output data |
 | data/facial_expressions | csv | Raw OpenFace output data |
 | data/profile | csv | Participant information |
-| data/time_stamp | xlsx, srt | Files of the start and end times of the experiment for Tobii output data and OpenFace output data. Files of speaking time in OpenFace output data |
+| data/time_stamp | csv, xlsx | Files of the start and end times of the experiment for Tobii output data and OpenFace output data. Files of speaking time in OpenFace output data |
 
 ## Data Recording Details: 
 - Fifty healthy participants (age: 39.4 years old; 25 males, 25 females)
