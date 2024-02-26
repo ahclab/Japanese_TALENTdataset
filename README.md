@@ -12,8 +12,6 @@ Note: The use of the dataset is only permitted for research purposes.
 | data/facial_expressions | csv | Raw OpenFace output data |
 | data/profile | csv | Participant information |
 | data/time_stamp | xlsx, srt | Files of the start and end times of the experiment for Tobii output data and OpenFace output data. Files of speaking time in OpenFace output data |
-| preprocessed_data/eye_movements | csv | Table summarising the percentage of each participant looking at the three AOIs (Self, Other, Outside) |
-| preprocessed_data/facial_expressions | csv | Table summarising the mean of intensities of five AUs for each participant |
 
 ## Data Recording Details: 
 - Fifty healthy participants (age: 39.4 years old; 25 males, 25 females)
