@@ -38,7 +38,6 @@ Please cite the following papers when you use the dataset.
 @article{miyamoto2023eye,
  title={Eye Movements Related to Anxiety and Alexithymia During a Collaborative Problem-Solving Task},
  author = {Miyamoto, Kana and Tanaka, Hiroki and Nakamura, Satoshi},
- author={Hamet Bagnou, Jennifer and Prigent, Elise and Martin, Jean-Claude and Clavel, C{\'e}line},  journal={Frontiers in Psychology},
  year={2023},
  publisher={The Institute of Electronics, Information and Communication Engineers}
 }
