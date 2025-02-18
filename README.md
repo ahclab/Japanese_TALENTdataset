@@ -35,10 +35,13 @@ The pairs with the same number after A or B are those in which the collaborative
 Please cite the following papers when you use the dataset.
 
 ```bibtex
-@article{miyamoto2023eye,
- title={Eye Movements Related to Anxiety and Alexithymia During a Collaborative Problem-Solving Task},
- author = {Miyamoto, Kana and Tanaka, Hiroki and Nakamura, Satoshi},
- year={2023},
- publisher={The Institute of Electronics, Information and Communication Engineers}
+@article{miyamoto2025impact,
+  title={Impact of eye movements and facial expressions on social performance during a collaborative problem-solving task},
+  author={Miyamoto, Kana and Tanaka, Hiroki and Bagnou, Jennifer Hamet and Clavel, C{\'e}line and Prigent, Elise and Benamara, Amine and Le Scanff, Christine and Martin, Jean-Claude and Nakamura, Satoshi},
+  journal={Acta Psychologica},
+  volume={254},
+  pages={104782},
+  year={2025},
+  publisher={Elsevier}
 }
 
